@@ -1,7 +1,7 @@
 ---
-title: "README"
+"README"
 ---
-For the purpose of the assignment, tidy data is enterpreted in the wide sense. For additional information see https://class.coursera.org/getdata-015/forum/thread?thread_id=27
+For the purpose of the assignment, tidy data is enterpreted in a wide sense. For additional information see https://class.coursera.org/getdata-015/forum/thread?thread_id=27
 
 First, script loads all data into R and then binds train, test, and subject data together. In the last step, script binds everything in one dataset twoSets.
 
